@@ -1,1 +1,2 @@
 https://universe.roboflow.com/hust-ac6st/syn-fnngx
+https://universe.roboflow.com/liam-falus-ce7da/kaggle-license-plate-recogniser
