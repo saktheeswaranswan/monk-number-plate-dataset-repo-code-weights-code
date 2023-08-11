@@ -36,6 +36,28 @@ bearing
 
 https://universe.roboflow.com/ck
 
+https://universe.roboflow.com/diploma-sr7qg/steelmaking_ladle
+
+https://universe.roboflow.com/test-mr0rr/ladle-hooking
+
+https://universe.roboflow.com/test-mr0rr
+
+https://universe.roboflow.com/test-mr0rr/ladle-hooking--kun
+
+https://universe.roboflow.com/usi-vas4r
+
+https://universe.roboflow.com/shahid-poeif/data-cdnuq
+
+https://universe.roboflow.com/3-lixus/tray-fulltray-bucket-fullbucket-zsofo
+
+https://universe.roboflow.com/antonione
+
+https://universe.roboflow.com/melanoma-original/lanca-e-bocal
+
+https://universe.roboflow.com/marcelo-h-lucero/ads-vidrz
+
+https://universe.roboflow.com/harshini/stick-annot-aug/dataset/12
+
 https://universe.roboflow.com/ck/p02_test
 
 https://universe.roboflow.com/ck/p12_pass_appended
