@@ -23,3 +23,19 @@ https://universe.roboflow.com/college-gxdrt/car-damage-detection-ha5mm
 https://universe.roboflow.com/hust-ac6st/syn-fnngx/dataset/2
 
 https://universe.roboflow.com/liam-falus-ce7da/kaggle-license-plate-recogniser
+
+human vein project
+
+https://universe.roboflow.com/sikapaai
+
+cnc ppe 
+
+https://universe.roboflow.com/liug0019-e-ntu-edu-sg/asd-covec
+
+bearing
+
+https://universe.roboflow.com/ck
+
+https://universe.roboflow.com/ck/p02_test
+
+https://universe.roboflow.com/ck/p12_pass_appended
