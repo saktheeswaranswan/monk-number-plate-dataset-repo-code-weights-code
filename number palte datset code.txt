@@ -1,2 +1,25 @@
 https://universe.roboflow.com/hust-ac6st/syn-fnngx
 https://universe.roboflow.com/liam-falus-ce7da/kaggle-license-plate-recogniser
+https://universe.roboflow.com/ayush-grover/car-dects-new
+
+https://universe.roboflow.com/yash-sawant/car-dent-detection
+
+https://universe.roboflow.com/yash-sawant/car-dent-detection2
+
+https://universe.roboflow.com/college-gxdrt/rideit
+
+seg car damage
+
+https://universe.roboflow.com/college-gxdrt/rideit
+
+https://universe.roboflow.com/yash-sawant/car-dent-detection2
+
+https://universe.roboflow.com/college-gxdrt/rideit
+
+https://universe.roboflow.com/college-gxdrt/rideit
+
+https://universe.roboflow.com/college-gxdrt/car-damage-detection-ha5mm
+
+https://universe.roboflow.com/hust-ac6st/syn-fnngx/dataset/2
+
+https://universe.roboflow.com/liam-falus-ce7da/kaggle-license-plate-recogniser
